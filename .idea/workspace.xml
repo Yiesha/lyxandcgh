@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73cac988-8982-4077-9705-894f38ebb0ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hxPiKVa1VQdfiNYqDsfMRlA04n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Application.Entry (1)">
+    <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Arithmetic" />
+      <module name="3218005354" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Entry (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Entry" />
+      <module name="3218005354" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Entry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Entry" />
+      <module name="3218005354" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Entry (1)" />
+        <item itemvalue="Application.Arithmetic" />
+        <item itemvalue="Application.Entry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73cac988-8982-4077-9705-894f38ebb0ff" name="Default Changelist" comment="" />
+      <created>1600949898377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600949898377</updated>
+      <workItem from="1600949907427" duration="788000" />
+      <workItem from="1601782221799" duration="2193000" />
+      <workItem from="1601867945597" duration="7428000" />
+      <workItem from="1601984663774" duration="794000" />
+      <workItem from="1602057641280" duration="11839000" />
+      <workItem from="1602124358628" duration="27928000" />
+      <workItem from="1602252680921" duration="3501000" />
+      <workItem from="1602403236073" duration="17785000" />
+      <workItem from="1602478651823" duration="10222000" />
+      <workItem from="1602493367593" duration="288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="863" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1602422708285">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="863" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1602422708285" />
+    <state width="1492" height="296" key="GridCell.Tab.0.bottom" timestamp="1602493317859">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="296" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602493317859" />
+    <state width="1492" height="296" key="GridCell.Tab.0.center" timestamp="1602493317859">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="296" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1602493317859" />
+    <state width="1492" height="296" key="GridCell.Tab.0.left" timestamp="1602493317859">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="296" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1602493317859" />
+    <state width="1492" height="296" key="GridCell.Tab.0.right" timestamp="1602493317859">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="296" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1602493317859" />
+    <state x="736" y="50" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602250079538">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="736" y="50" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1602250079538" />
+    <state x="811" y="184" key="extract.method.dialog" timestamp="1602464930289">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="811" y="184" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1602464930289" />
+    <state x="651" y="126" width="782" height="600" key="find.popup" timestamp="1602467309770">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="651" y="126" width="782" height="600" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1602467309770" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1602069678532">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1602069678532" />
+  </component>
+</project>
